@@ -1,2 +1,2 @@
-# Postulate
+# Postulat
 First
